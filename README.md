@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently pursuing on B.tech Artificial Intelligence and Data Science
+- 🔭 I’m currently pursuing B.tech Artificial Intelligence and Data Science
 - 🌱 I’m currently learning DSA and Full Stack technologies
 - 👯 I’m looking to collaborate on Data Science, FullStack and Machine Learning projects
 - 📫 How to reach me: mathewfedrick13@gmail.com
