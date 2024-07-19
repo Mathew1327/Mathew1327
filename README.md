@@ -21,11 +21,10 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew1327&show_icons=true&hide_border=true)&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew1327&layout=compact&hide_border=true)
 
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-fedrick-i-52120321a/)
-
 
