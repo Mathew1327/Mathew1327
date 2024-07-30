@@ -19,10 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew1327&show_icons=true&hide_border=true)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew1327&layout=compact&hide_border=true)
 
 ## 🔗 Connect with me
 
