@@ -1,11 +1,11 @@
-# Hi there,  I'm Mathew Fedrick  👋
+# Hi there,  I'm Mathew Fedrick 👋
 
 ## About Me
 
-- 🔭 I’m currently pursuing B.tech Artificial Intelligence and Data Science
-- 🌱 I’m currently learning DSA and Full Stack technologies
-- 👯 I’m looking to collaborate on Data Science, FullStack and Machine Learning projects
-- 📫 How to reach me: mathewfedrick13@gmail.com
+- 🔭 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science  
+- 🌱 I’m currently learning DSA and Full Stack technologies  
+- 👯 I’m looking to collaborate on Data Science, FullStack and Machine Learning projects  
+- 📫 How to reach me: mathewfedrick13@gmail.com  
 
 ## 🛠️ Technologies & Tools
 
@@ -19,9 +19,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathew1327&layout=compact&theme=github_dark)
 
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-fedrick-i-52120321a/)
-
